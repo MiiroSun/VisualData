@@ -1,5 +1,0 @@
-dash
-dash-draggable
-pandas
-plotly
-gunicorn
